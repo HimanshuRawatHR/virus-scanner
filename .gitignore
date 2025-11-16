@@ -1,0 +1,90 @@
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+monitor.log
+monitor_error.log
+scan_log.json
+secure_downloads.log
+
+# Quarantine folders (contain potentially malicious files)
+quarantine/
+Quarantine/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Test files
+test_*.txt
+test_*.py
+test_*.jpg
+test_*.png
+*.test
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# API keys (never commit these!)
+.env
+*.key
+*credentials*
+*secret*
