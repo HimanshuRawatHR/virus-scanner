@@ -1,4 +1,4 @@
-# Local VirusTotal
+# Virus Scanner
 
 A powerful local file scanning tool that provides VirusTotal-like functionality directly on your system. Scan files for malware, detect hidden threats in images/videos, and protect downloads automatically.
 
@@ -34,8 +34,8 @@ A powerful local file scanning tool that provides VirusTotal-like functionality 
 ### Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-virustotal.git
-cd local-virustotal
+git clone https://github.com/HimanshuRawatHR/virus-scanner.git
+cd virus-scanner
 ./install.sh
 ```
 
@@ -43,8 +43,8 @@ cd local-virustotal
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-virustotal.git
-cd local-virustotal
+git clone https://github.com/HimanshuRawatHR/virus-scanner.git
+cd virus-scanner
 ```
 
 2. **Install system dependencies (macOS):**

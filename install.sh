@@ -13,7 +13,7 @@ NC='\033[0m'
 
 echo -e "${CYAN}"
 echo "=============================================="
-echo "   Local VirusTotal - Quick Installer"
+echo "   Virus Scanner - Quick Installer"
 echo "=============================================="
 echo -e "${NC}"
 
